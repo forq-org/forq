@@ -1,2 +1,2 @@
 # forq
-Quantum toolbox n fortran
+Quantum toolbox in fortran
